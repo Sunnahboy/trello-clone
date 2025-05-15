@@ -21,7 +21,8 @@ A pixel-perfect recreation of the Trello landing page hero section built with Ne
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Screenshots
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b1152289-5d9c-47e4-a4bd-b1ce92657e76)
+
 
 
 ## Demo Video
