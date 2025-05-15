@@ -1,3 +1,35 @@
+
+# Trello Landing Page Clone
+
+A pixel-perfect recreation of the Trello landing page hero section built with Next.js 15, TypeScript, and Chakra UI.
+
+## Technologies Used
+- Next.js 15
+- TypeScript
+- Chakra UI
+- React
+
+## Features
+- Responsive design matching Trello's landing page
+- Pixel-perfect recreation of the hero section
+- Fully functional navigation and UI elements
+
+## How to Run Locally
+1. Clone this repository
+2. Install dependencies with `npm install`
+3. Run the development server with `npm run dev`
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## Screenshots
+![Trello Clone Screenshot](public/images/screenshot.png)
+
+## Demo Video
+[Watch the demo video](https://drive.google.com/file/d/YOUR_VIDEO_ID/view)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
